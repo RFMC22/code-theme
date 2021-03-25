@@ -1,0 +1,24 @@
+{
+    "name": "reda-theme",
+    "displayName": "Reda Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Reda Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reda Theme-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "js-yaml": "^4.0.0"
+    }
+}
