@@ -14,7 +14,7 @@
             {
                 "label": "Reda Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Reda Theme-color-theme.json"
+                "path": "./themes/reda.json"
             }
         ]
     },
